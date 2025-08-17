@@ -12,6 +12,7 @@
 
 ## 🚀 About Me  
 - 🌱 I’m currently learning **Data Science, Machine Learning, and Business Analytics**  
+- 👨‍💻 Currently working as a **Business Analyst Intern at Bajaj Allianz Life Insurance**  
 - 👯 I’m looking to collaborate on **Data Analysis & Visualization Projects**  
 - 📊 Skilled in **Python, SQL, Power BI, Tableau, Excel**  
 - 💡 Interested in solving **real-world business problems using data**  

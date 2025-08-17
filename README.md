@@ -48,9 +48,9 @@
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sairaj-more-849812319)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sairaj-more)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sairaj-more33)  
 
 ---
 
-⭐️ From [Sairaj More](https://github.com/sairaj-more)
+⭐️ From [Sairaj More](https://github.com/sairaj-more33)
 

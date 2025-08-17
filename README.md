@@ -4,17 +4,48 @@
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
-<!--
-**sairaj-more33/sairaj-more33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Sairaj More  
 
-Here are some ideas to get you started:
+🎓 MCA Student | 📊 Aspiring Data Scientist | 💼 Data Analyst & Business Analyst Enthusiast  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+- 🌱 I’m currently learning **Data Science, Machine Learning, and Business Analytics**  
+- 👯 I’m looking to collaborate on **Data Analysis & Visualization Projects**  
+- 📊 Skilled in **Python, SQL, Power BI, Tableau, Excel**  
+- 💡 Interested in solving **real-world business problems using data**  
+- ⚡ Fun fact: *I love turning raw data into meaningful insights*  
+
+---
+
+## 🛠️ Languages & Tools  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sairaj-more&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairaj-more&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+---
+
+## 🔥 Streak Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairaj-more&theme=tokyonight" height="160px"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sairaj-more-849812319)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sairaj-more)  
+
+---
+
+⭐️ From [Sairaj More](https://github.com/sairaj-more)
+

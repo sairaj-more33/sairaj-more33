@@ -1,6 +1,6 @@
 ## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Sairaj More — a Data Analyst / BI Analyst 👨‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-@SairajMore-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https:https://www.linkedin.com/in/sairaj-more-849812319)
+[![Linkedin Badge](https://img.shields.io/badge/-@SairajMore-0e76a8?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sairaj-more-849812319)
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 

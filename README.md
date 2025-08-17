@@ -21,7 +21,11 @@
 
 ## 🛠️ Languages & Tools  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,github,vscode" />  
+<br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />  
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  
 </p>
 
 ---
